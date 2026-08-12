@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: RRHS Arduino Club
+site_url: https://rrhsarduinoclub.github.io/tutorials/
+
+theme:
+  name: material
